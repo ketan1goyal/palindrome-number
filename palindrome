@@ -15,7 +15,7 @@ class Solution {
             a/=10;
         }
         if(b==x){
-            return(true);
+            return(true); //returning true
         }
         return(false);
         //return false
